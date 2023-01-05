@@ -4,15 +4,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "gray-20": "#F8F4EB",
+        "gray-20": "#C6D4FF",
         "gray-50": "#EFE6E6",
         "gray-100": "#DFCCCC",
         "gray-500": "#5E0000",
-        "primary-100": "#FFE1E0",
-        "primary-300": "#FFA6A3",
-        "primary-500": "#FF6B66",
+        "primary-100": "#307473",
+        "primary-300": "#2DC2BD",
+        "primary-500": "#12664F",
         "secondary-400": "#FFCD5B",
-        "secondary-500": "#FFC132",
+        "secondary-500": "#307473",
       },
       backgroundImage: (theme) => ({
         "gradient-yellowred":
